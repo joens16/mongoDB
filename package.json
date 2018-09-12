@@ -17,6 +17,10 @@
   },
   "homepage": "https://github.com/joens16/mongoDB#readme",
   "dependencies": {
-    "body-parser": "^1.18.3"
+    "axios": "^0.18.0",
+    "body-parser": "^1.18.3",
+    "cheerio": "^1.0.0-rc.2",
+    "logger": "0.0.1",
+    "mongoose": "^5.2.13"
   }
 }
